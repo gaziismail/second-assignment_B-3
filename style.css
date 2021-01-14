@@ -1,3 +1,6 @@
+i{
+    color: white;
+}
 .card-border{
     border: none;
 }
@@ -7,4 +10,17 @@
 .btn-dec{
     background-image: linear-gradient(rgb(164, 188, 70), rgb(134,161,26));
     padding: 15px 30px;
+}
+.h-color{
+    color: rgb(250, 190, 76);
+}
+.h1-size{
+    font-size: 60px;
+    font-weight: 700;
+}
+.bttn-color{
+    color: white;
+}
+.send-button{
+    background-image: linear-gradient(lightsalmon, tomato);
 }
