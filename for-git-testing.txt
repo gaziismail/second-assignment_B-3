@@ -1,3 +1,0 @@
-this .txt file is just test for git and git hub.
-
-	thank you
